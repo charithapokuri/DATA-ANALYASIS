@@ -1,0 +1,111 @@
+    1  pwd
+    2  Ls
+    3  touch demo.txt
+    4  $ ls
+    5  $ Ls
+    6  $ Ls
+    7  Ls
+    8  touch file{1..10}.txt
+    9  Ls
+   10  cd..
+   11  $ cd..
+   12  $ pwd
+   13  $ ls
+   14  $ Ls
+   15  $ pwd
+   16  $ pwd
+   17  $ pwd
+   18  $ Ls
+   19  $ pwd
+   20  $ pwd
+   21  pwd
+   22  ls
+   23  cd c:
+   24  pwd
+   25  cd C:\
+   26  cd C:\Users\dell\Desktop\gist-5A4
+   27  ls
+   28  echo hello
+   29  touch hello.txt
+   30  ls
+   31  cat hello.txt
+   32  echo {1..100}
+   33  echo {1..100}>>hello.txt
+   34  cat hello.txt
+   35  touch myfile{1..100}.txt
+   36  rm *txt
+   37  touch file.txt
+   38  git init
+   39  git clone 'https://github.com/62783/gist.git'
+   40  ls
+   41  cd gist/
+   42  ls
+   43  vi README.md 
+   44  git config --global user.name '62783'
+   45  git config --global user.name 'vineesharagi@gmail.com'
+   46  git status -s
+   47  touch example.py
+   48  git status -s
+   49  git init
+   50  git status -s
+   51  touch example.py
+   52  git status -s
+   53  git add .
+   54  git status -s
+   55  git commit -m 'write markdown statements'
+   56  git commit -m 'write markdown statements'
+   57  git log
+   58  git remote add origin 'https://github.com/62783/gist.git'
+   59  git push origin master
+   60  git push origin main
+   61  git push origin main
+   62  git commit -m 'write markdown statement'
+   63  git config --global user.email 'vineesharagi@gmail.com'
+   64  git init
+   65  git status -s
+   66  git commit -m 'write markdown statement'
+   67  git log
+   68  git add remote origin 'https://github.com/62783/giSt_python-workshop.git'
+   69  git add remote orgin 'https://github.com/62783/gist.git'
+   70  git add remote orgin 'https://github.com/62783/gist.git'
+   71  git remote add origin 'https://github.com/62783/gist.git'
+   72  git push origin main
+   73  git commit -m 'sum files'
+   74  git status -s
+   75  git add .
+   76  git status -s
+   77  git commit -m 'sum files'
+   78  git log
+   79  git remote add origin 'https://github.com/62783/Data-Analysis.git'
+   80  git push origin main
+   81  mkdir 5A4
+   82  mkdir5A4
+   83  mkdir touch .txt
+   84  touch Sample.html
+   85  Vi Sample.html
+   86  git clone 'https://github.com/vijaykumar10022/T-ShirtSize.git'
+   87  pwd
+   88  ls
+   89  rm *.txt
+   90  ls
+   91  ls
+   92  nano python.txt
+   93  cat python.txt
+   94  nano python,txt
+   95  nano python.txt
+   96  cat python.txt
+   97  echo "hello">>python2.txt
+   98  cat python2.txt
+   99  echo {1..1000} >>python3.txt
+  100  cat python3.txt
+  101  mv python3.txt python2.txt
+  102  cat python2.txt
+  103  ls
+  104  cp python2.txt python1.txt
+  105  cat python.txt
+  106  cp python1.txt
+  107  cat python1.txt
+  108  ls
+  109  python.txt python2.txt
+  110  history
+  111  history >>history.txt
